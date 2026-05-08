@@ -16,4 +16,4 @@ chmod +x backup.sh
 
 # Ejecutar el script
 ./backup.sh
-0 2 * * * /ruta/completa/al/script/backup.sh >> /ruta/logs/backup.log 2>&1
+
